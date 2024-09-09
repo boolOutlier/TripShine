@@ -37,7 +37,7 @@ Trip Shine 采用前后端分离的架构，前端使用 React 框架，后端�
 
 ### 项目文档
 
-- [飞书文档](https://gwijz8ymrk1.feishu.cn/wiki/FkfFww58MiBM2LkYkWbc2kIUnig?from=from_copylink)
+- [飞书文档](https://p43qtapt2g.feishu.cn/docx/LhDfdR9MYoHkZExXIKycdds9nBc)
 
 ### 效果展示
 
