@@ -1,0 +1,27 @@
+### JRebel ###
+rebel.xml
+
+
+######################################################################
+# Others
+*.log
+*.xml.versionsBackup
+*.swp
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+### 子项目中的node_modules ###
+node_modules/
+
+### 阿里云OSS配置文件 ###
+.env
+
